@@ -1,2 +1,2 @@
 # Internship
- internship-1
+Summer Internship-1
